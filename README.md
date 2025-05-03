@@ -54,8 +54,9 @@ cv2.destroyAllWindows()
 
 ```
 ## Output:
-![Uploading Screenshot 2025-05-03 113003.png…]()
 
+
+![Screenshot 2025-05-03 113003](https://github.com/user-attachments/assets/9c7346fa-a35b-4a39-9fb2-51f636671642)
 
 ## Result
 Thus the Opening and Closing operation is used in the image using python and OpenCV.
