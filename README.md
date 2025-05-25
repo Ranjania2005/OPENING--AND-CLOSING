@@ -24,7 +24,7 @@ Use Closing Operation
 
  
 ## Program:
-```
+```Python
 #exp-10-Opening & Closing
 import cv2
 import numpy as np
